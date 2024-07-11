@@ -6,7 +6,7 @@
 
 - 📚 Senior studying Computer Science @ The University of Michigan
   
-- 💡 Interested in full-stack web development, computer security, guitar, music production
+- 💡 Interested in full-stack web development, guitar, music production
 
 
 <h1 align="center">🧳 Languages, Frameworks, and Tools</h1>
