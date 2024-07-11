@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/CMQgMtG.jpg" alt="banner">
+  <img src="https://i.imgur.com/sZ7aVi7.png" alt="banner" width="300" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">👋 Hi, I'm Frederick Guevara</h1>
