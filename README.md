@@ -4,6 +4,8 @@
 
 <h1 align="center">👋 Hi, I'm Frederick Guevara</h1>
 
+- 💻 SWE @ **KNAPP**
+
 - 📚 B.S. Computer Science @ The University of Michigan
   
 - 💡 Interested in full-stack web development, guitar, music production
